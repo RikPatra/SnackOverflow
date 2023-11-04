@@ -5,7 +5,7 @@ Snack Overflow is a snack subscription service that delivers curated boxes of de
 
 This project contains the following:
 
-1. Figma (.fig) file demonstrating the complete UI/UX of the App.
+1. Figma (.fig) file demonstrating the complete UI/UX of the App (https://www.figma.com/file/uKHiC4a5FqKXc4laP0gNo8/Snack-Overflow?type=design&t=BavuAvn9wtP7D4M7-6)
 2. User journey map that illustrates the steps and touchpoints of Snack Overflow App's customers from signing up to receiving their snack boxes.
 3. Style guide that outlines the visual elements such as brand name, brand logo, typography, colors, icons, imagery, and tone of voice for the Snack Overflow App.
 4. Component library that showcases the functional elements such as buttons, forms, cards, and navigation for the Snack Overflow App.
